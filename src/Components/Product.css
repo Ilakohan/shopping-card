@@ -1,0 +1,15 @@
+.product{
+	margin: 2em;
+	padding: 3em;
+	border-radius: 5px;
+	box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.7);
+}
+
+.btn {
+	background-color: #1976d2;
+	color: white;
+	border: none;
+	padding: .6em;
+	border-radius: 6px;
+	outline: none;
+}
